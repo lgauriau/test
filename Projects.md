@@ -31,12 +31,21 @@ That's the main reason why i didn't win the competition.
 
 <h2>DEC Project</h2>
 
-This project was made on my first year in IMT. I was part of a multicultural group working together to create a robot
-using an Arduino card. Then the final target was to win a race against other students.
-Each of us split on different tasks :
-
+It was made on my first year in IMT. I was part of a multicultural group working together to create a robot
+using an Arduino card. The purpose was to win a race against other students.
+Each of us split on different tasks. I took part in the design creation for the robot. 
+After balancing between aesthetic and performance
+i designed the blueprint on Cura, and printed in 3d the shell of our vehicle.
 
 <h2>DEV Project</h2>
+
+The topic was a suggestion from a teacher for our group. He's teaching Big Data in IMT to 3rd year students. He was using a Raspberry PI 
+server in class and wanted us to reorganise the pi's in order to be easily carried and 
+then install Docker on each cards. What we did :
+* Design a box to carry the server from class to class to plug one ethernet and deliver power supply from one plug
+* Install Debian on the PI's
+* List IP adresses using Putty
+* Attempt to install Docker
 
 <h2>Network Project</h2>
 
