@@ -4,7 +4,7 @@
 
 | Name | Summary | 
 | :-------: | :------ |
-| [Pyrat](#Pyrat) | Python algorithm implemented to move a rat on a fixed maze </br>(Similar scenario as a PacMan game) |
+| [Pyrat](#pyrat) | Python algorithm implemented to move a rat on a fixed maze </br>(Similar scenario as a PacMan game) |
 | [DEC Project](#dec-project) | Creation of a robot vehicle with Arduino microcontroller |
 | [DEV Project](#dev-project)  | Installation and design of 32 Raspberry PI server |
 | [Network Prog](#network-prog)  | Creation of a protocol Specification </br> Python code implemented using a Framework and shared with Git |
@@ -31,6 +31,9 @@ That's the main reason why i didn't win the competition.
 
 <h2>DEC Project</h2>
 
+This project was made on my first year in IMT. I was part of a multicultural group working together to create a robot
+using an Arduino card. Then the final target was to win a race against other students.
+Each of us split on different tasks :
 
 
 <h2>DEV Project</h2>
